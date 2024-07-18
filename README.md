@@ -8,8 +8,6 @@ This app predicts the production of crops in Maharashtra, India, based on user i
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Crop Production Prediction App aims to help farmers and agricultural planners in Maharashtra by providing predictions of crop production. By inputting specific details about the crop and the conditions, users can obtain an estimate of the expected production.
